@@ -1,0 +1,13 @@
+*
+!*/
+
+!.gitignore
+
+!i3/**
+!picom/**
+!polybar/**
+!rofi/**
+!kitty/**
+!lvim/**
+!micro/**
+!awesome/**
