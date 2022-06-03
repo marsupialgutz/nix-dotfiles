@@ -10,12 +10,12 @@ local todo_file_path = os.getenv("TODO_PATH") or os.getenv("HOME") .. "/.todo"
 -- Subscribe to todo changes
 -- Requires inotify-tools
 local todo_subscribe_script = [[
-   bash -c "
+   zsh -c "
    while (inotifywait -e modify "]] .. todo_file_path .. [[" -qq) do echo; done
 "]]
 
 local todo_script = [[
-   bash -c "
+   zsh -c "
    todo_done=$(todo raw done | wc -l)
    todo_undone=$(todo raw todo | wc -l) 
 
