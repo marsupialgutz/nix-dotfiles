@@ -21,8 +21,11 @@ nice {
   titlebar_items = {
     left = { "close", "minimize", "maximize" },
     middle = "title",
-    right = {}
-  }
+  },
+  titlebar_font = "Recursive Sans Casual Static 11",
+  floating_color = "#00000000",
+  ontop_color = "#00000000",
+  sticky_color = "#00000000"
 }
 
 -- ░█▀▀░█▀█░█▀█░█▀▀░▀█▀░█▀▀░█░█░█▀▄░█▀█░▀█▀░▀█▀░█▀█░█▀█░█▀▀

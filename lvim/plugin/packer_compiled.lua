@@ -194,7 +194,7 @@ _G.packer_plugins = {
     url = "https://github.com/hrsh7th/nvim-cmp"
   },
   ["nvim-cokeline"] = {
-    config = { "\27LJ\2\n^\0\1\5\1\4\0\0149\1\0\0\15\0\1\0X\2\6€-\1\0\0'\3\1\0'\4\2\0B\1\3\2\14\0\1\0X\2\4€-\1\0\0'\3\3\0'\4\2\0B\1\3\2L\1\2\0\0À\fComment\afg\vNormal\15is_focused \0\1\2\0\2\0\0039\1\0\0009\1\1\1L\1\2\0\ticon\fdevicon!\0\1\2\0\2\0\0039\1\0\0009\1\1\1L\1\2\0\ncolor\fdevicon#\0\1\3\0\2\0\0049\1\0\0'\2\1\0&\1\2\1L\1\2\0\a  \rfilename3\0\1\2\0\2\0\a9\1\0\0\15\0\1\0X\2\2€'\1\1\0X\2\1€+\1\0\0L\1\2\0\tbold\15is_focusedŒ\4\1\0\n\0\27\0F6\0\0\0'\2\1\0B\0\2\0029\0\2\0006\1\0\0'\3\3\0B\1\2\0029\1\4\0015\3\5\0005\4\a\0003\5\6\0=\5\b\4\18\5\0\0'\a\t\0'\b\n\0B\5\3\2=\5\n\4=\4\v\0034\4\b\0005\5\f\0\18\6\0\0'\b\r\0'\t\n\0B\6\3\2=\6\n\5>\5\1\0045\5\14\0\18\6\0\0'\b\t\0'\t\n\0B\6\3\2=\6\b\5\18\6\0\0'\b\r\0'\t\n\0B\6\3\2=\6\n\5>\5\2\0045\5\16\0003\6\15\0=\6\17\0053\6\18\0=\6\b\5>\5\3\0045\5\19\0>\5\4\0045\5\21\0003\6\20\0=\6\17\0053\6\22\0=\6\23\5>\5\5\0045\5\24\0>\5\6\0045\5\25\0\18\6\0\0'\b\t\0'\t\n\0B\6\3\2=\6\b\5\18\6\0\0'\b\r\0'\t\n\0B\6\3\2=\6\n\5>\5\a\4=\4\26\3B\1\2\0012\0\0€K\0\1\0\15components\1\0\1\ttext\bî‚´\1\0\2\ttext\bï™• delete_buffer_on_left_click\2\nstyle\0\1\0\0\0\1\0\1\ttext\6 \0\ttext\1\0\0\0\1\0\1\ttext\bî‚¶\vNormal\1\0\1\ttext\6 \15default_hl\abg\16ColorColumn\afg\1\0\0\0\1\0\1!show_if_buffers_are_at_least\3\2\nsetup\rcokeline\fget_hex\19cokeline/utils\frequire\0" },
+    config = { "\27LJ\2\n^\0\1\5\1\4\0\0149\1\0\0\15\0\1\0X\2\6€-\1\0\0'\3\1\0'\4\2\0B\1\3\2\14\0\1\0X\2\4€-\1\0\0'\3\3\0'\4\2\0B\1\3\2L\1\2\0\0À\fComment\afg\vNormal\15is_focused \0\1\2\0\2\0\0039\1\0\0009\1\1\1L\1\2\0\ticon\fdevicon!\0\1\2\0\2\0\0039\1\0\0009\1\1\1L\1\2\0\ncolor\fdevicon#\0\1\3\0\2\0\0049\1\0\0'\2\1\0&\1\2\1L\1\2\0\a  \rfilename3\0\1\2\0\2\0\a9\1\0\0\15\0\1\0X\2\2€'\1\1\0X\2\1€+\1\0\0L\1\2\0\tbold\15is_focusedŒ\4\1\0\n\0\27\0F6\0\0\0'\2\1\0B\0\2\0029\0\2\0006\1\0\0'\3\3\0B\1\2\0029\1\4\0015\3\5\0005\4\a\0003\5\6\0=\5\b\4\18\5\0\0'\a\t\0'\b\n\0B\5\3\2=\5\n\4=\4\v\0034\4\b\0005\5\f\0\18\6\0\0'\b\r\0'\t\n\0B\6\3\2=\6\n\5>\5\1\0045\5\14\0\18\6\0\0'\b\t\0'\t\n\0B\6\3\2=\6\b\5\18\6\0\0'\b\r\0'\t\n\0B\6\3\2=\6\n\5>\5\2\0045\5\16\0003\6\15\0=\6\17\0053\6\18\0=\6\b\5>\5\3\0045\5\19\0>\5\4\0045\5\21\0003\6\20\0=\6\17\0053\6\22\0=\6\23\5>\5\5\0045\5\24\0>\5\6\0045\5\25\0\18\6\0\0'\b\t\0'\t\n\0B\6\3\2=\6\b\5\18\6\0\0'\b\r\0'\t\n\0B\6\3\2=\6\n\5>\5\a\4=\4\26\3B\1\2\0012\0\0€K\0\1\0\15components\1\0\1\ttext\bî‚´\1\0\2 delete_buffer_on_left_click\2\ttext\bï™•\nstyle\0\1\0\0\0\1\0\1\ttext\6 \0\ttext\1\0\0\0\1\0\1\ttext\bî‚¶\vNormal\1\0\1\ttext\6 \15default_hl\abg\16ColorColumn\afg\1\0\0\0\1\0\1!show_if_buffers_are_at_least\3\2\nsetup\rcokeline\fget_hex\19cokeline/utils\frequire\0" },
     loaded = true,
     path = "/home/marshall/.local/share/lunarvim/site/pack/packer/start/nvim-cokeline",
     url = "https://github.com/noib3/nvim-cokeline"
@@ -358,50 +358,50 @@ if not vim.g.packer_custom_loader_enabled then
   vim.g.packer_custom_loader_enabled = true
 end
 
--- Config for: alpha-nvim
-time([[Config for alpha-nvim]], true)
-try_loadstring("\27LJ\2\n=\0\0\3\0\3\0\0066\0\0\0'\2\1\0B\0\2\0029\0\2\0B\0\1\1K\0\1\0\nsetup\20lvim.core.alpha\frequire\0", "config", "alpha-nvim")
-time([[Config for alpha-nvim]], false)
--- Config for: nvim-notify
-time([[Config for nvim-notify]], true)
-try_loadstring("\27LJ\2\n>\0\0\3\0\3\0\0066\0\0\0'\2\1\0B\0\2\0029\0\2\0B\0\1\1K\0\1\0\nsetup\21lvim.core.notify\frequire\0", "config", "nvim-notify")
-time([[Config for nvim-notify]], false)
--- Config for: nvim-tree.lua
-time([[Config for nvim-tree.lua]], true)
-try_loadstring("\27LJ\2\n@\0\0\3\0\3\0\0066\0\0\0'\2\1\0B\0\2\0029\0\2\0B\0\1\1K\0\1\0\nsetup\23lvim.core.nvimtree\frequire\0", "config", "nvim-tree.lua")
-time([[Config for nvim-tree.lua]], false)
--- Config for: nvim-cmp
-time([[Config for nvim-cmp]], true)
-try_loadstring("\27LJ\2\n`\0\0\3\0\6\0\v6\0\0\0009\0\1\0009\0\2\0\15\0\0\0X\1\5€6\0\3\0'\2\4\0B\0\2\0029\0\5\0B\0\1\1K\0\1\0\nsetup\18lvim.core.cmp\frequire\bcmp\fbuiltin\tlvim\0", "config", "nvim-cmp")
-time([[Config for nvim-cmp]], false)
--- Config for: project.nvim
-time([[Config for project.nvim]], true)
-try_loadstring("\27LJ\2\n?\0\0\3\0\3\0\0066\0\0\0'\2\1\0B\0\2\0029\0\2\0B\0\1\1K\0\1\0\nsetup\22lvim.core.project\frequire\0", "config", "project.nvim")
-time([[Config for project.nvim]], false)
--- Config for: nvim-autopairs
-time([[Config for nvim-autopairs]], true)
-try_loadstring("\27LJ\2\nA\0\0\3\0\3\0\0066\0\0\0'\2\1\0B\0\2\0029\0\2\0B\0\1\1K\0\1\0\nsetup\24lvim.core.autopairs\frequire\0", "config", "nvim-autopairs")
-time([[Config for nvim-autopairs]], false)
--- Config for: nvim-cokeline
-time([[Config for nvim-cokeline]], true)
-try_loadstring("\27LJ\2\n^\0\1\5\1\4\0\0149\1\0\0\15\0\1\0X\2\6€-\1\0\0'\3\1\0'\4\2\0B\1\3\2\14\0\1\0X\2\4€-\1\0\0'\3\3\0'\4\2\0B\1\3\2L\1\2\0\0À\fComment\afg\vNormal\15is_focused \0\1\2\0\2\0\0039\1\0\0009\1\1\1L\1\2\0\ticon\fdevicon!\0\1\2\0\2\0\0039\1\0\0009\1\1\1L\1\2\0\ncolor\fdevicon#\0\1\3\0\2\0\0049\1\0\0'\2\1\0&\1\2\1L\1\2\0\a  \rfilename3\0\1\2\0\2\0\a9\1\0\0\15\0\1\0X\2\2€'\1\1\0X\2\1€+\1\0\0L\1\2\0\tbold\15is_focusedŒ\4\1\0\n\0\27\0F6\0\0\0'\2\1\0B\0\2\0029\0\2\0006\1\0\0'\3\3\0B\1\2\0029\1\4\0015\3\5\0005\4\a\0003\5\6\0=\5\b\4\18\5\0\0'\a\t\0'\b\n\0B\5\3\2=\5\n\4=\4\v\0034\4\b\0005\5\f\0\18\6\0\0'\b\r\0'\t\n\0B\6\3\2=\6\n\5>\5\1\0045\5\14\0\18\6\0\0'\b\t\0'\t\n\0B\6\3\2=\6\b\5\18\6\0\0'\b\r\0'\t\n\0B\6\3\2=\6\n\5>\5\2\0045\5\16\0003\6\15\0=\6\17\0053\6\18\0=\6\b\5>\5\3\0045\5\19\0>\5\4\0045\5\21\0003\6\20\0=\6\17\0053\6\22\0=\6\23\5>\5\5\0045\5\24\0>\5\6\0045\5\25\0\18\6\0\0'\b\t\0'\t\n\0B\6\3\2=\6\b\5\18\6\0\0'\b\r\0'\t\n\0B\6\3\2=\6\n\5>\5\a\4=\4\26\3B\1\2\0012\0\0€K\0\1\0\15components\1\0\1\ttext\bî‚´\1\0\2\ttext\bï™• delete_buffer_on_left_click\2\nstyle\0\1\0\0\0\1\0\1\ttext\6 \0\ttext\1\0\0\0\1\0\1\ttext\bî‚¶\vNormal\1\0\1\ttext\6 \15default_hl\abg\16ColorColumn\afg\1\0\0\0\1\0\1!show_if_buffers_are_at_least\3\2\nsetup\rcokeline\fget_hex\19cokeline/utils\frequire\0", "config", "nvim-cokeline")
-time([[Config for nvim-cokeline]], false)
--- Config for: telescope.nvim
-time([[Config for telescope.nvim]], true)
-try_loadstring("\27LJ\2\nA\0\0\3\0\3\0\0066\0\0\0'\2\1\0B\0\2\0029\0\2\0B\0\1\1K\0\1\0\nsetup\24lvim.core.telescope\frequire\0", "config", "telescope.nvim")
-time([[Config for telescope.nvim]], false)
--- Config for: LuaSnip
-time([[Config for LuaSnip]], true)
-try_loadstring("\27LJ\2\nñ\3\0\0\v\0\23\00166\0\0\0'\2\1\0B\0\2\0024\1\0\0006\2\2\0009\2\3\0029\2\4\0029\2\5\0029\2\6\2\15\0\2\0X\3\f€\21\2\1\0\22\2\0\0029\3\a\0006\5\b\0B\5\1\2'\6\t\0'\a\n\0'\b\v\0'\t\f\0'\n\r\0B\3\a\2<\3\2\0019\2\a\0006\4\14\0B\4\1\2'\5\15\0B\2\3\0029\3\16\0\18\5\2\0B\3\2\2\15\0\3\0X\4\3€\21\3\1\0\22\3\0\3<\2\3\0016\3\0\0'\5\17\0B\3\2\0029\3\18\3B\3\1\0016\3\0\0'\5\19\0B\3\2\0029\3\18\0035\5\20\0=\1\21\5B\3\2\0016\3\0\0'\5\22\0B\3\2\0029\3\18\3B\3\1\1K\0\1\0\"luasnip.loaders.from_snipmate\npaths\1\0\0 luasnip.loaders.from_vscode\14lazy_load\29luasnip.loaders.from_lua\17is_directory\rsnippets\19get_config_dir\22friendly-snippets\nstart\vpacker\tpack\tsite\20get_runtime_dir\15join_paths\22friendly_snippets\fsources\fluasnip\fbuiltin\tlvim\15lvim.utils\frequire\2\0", "config", "LuaSnip")
-time([[Config for LuaSnip]], false)
--- Config for: nvim-treesitter
-time([[Config for nvim-treesitter]], true)
-try_loadstring("\27LJ\2\nB\0\0\3\0\3\0\0066\0\0\0'\2\1\0B\0\2\0029\0\2\0B\0\1\1K\0\1\0\nsetup\25lvim.core.treesitter\frequire\0", "config", "nvim-treesitter")
-time([[Config for nvim-treesitter]], false)
 -- Config for: lualine.nvim
 time([[Config for lualine.nvim]], true)
 try_loadstring("\27LJ\2\n?\0\0\3\0\3\0\0066\0\0\0'\2\1\0B\0\2\0029\0\2\0B\0\1\1K\0\1\0\nsetup\22lvim.core.lualine\frequire\0", "config", "lualine.nvim")
 time([[Config for lualine.nvim]], false)
+-- Config for: nvim-autopairs
+time([[Config for nvim-autopairs]], true)
+try_loadstring("\27LJ\2\nA\0\0\3\0\3\0\0066\0\0\0'\2\1\0B\0\2\0029\0\2\0B\0\1\1K\0\1\0\nsetup\24lvim.core.autopairs\frequire\0", "config", "nvim-autopairs")
+time([[Config for nvim-autopairs]], false)
+-- Config for: nvim-cmp
+time([[Config for nvim-cmp]], true)
+try_loadstring("\27LJ\2\n`\0\0\3\0\6\0\v6\0\0\0009\0\1\0009\0\2\0\15\0\0\0X\1\5€6\0\3\0'\2\4\0B\0\2\0029\0\5\0B\0\1\1K\0\1\0\nsetup\18lvim.core.cmp\frequire\bcmp\fbuiltin\tlvim\0", "config", "nvim-cmp")
+time([[Config for nvim-cmp]], false)
+-- Config for: LuaSnip
+time([[Config for LuaSnip]], true)
+try_loadstring("\27LJ\2\nñ\3\0\0\v\0\23\00166\0\0\0'\2\1\0B\0\2\0024\1\0\0006\2\2\0009\2\3\0029\2\4\0029\2\5\0029\2\6\2\15\0\2\0X\3\f€\21\2\1\0\22\2\0\0029\3\a\0006\5\b\0B\5\1\2'\6\t\0'\a\n\0'\b\v\0'\t\f\0'\n\r\0B\3\a\2<\3\2\0019\2\a\0006\4\14\0B\4\1\2'\5\15\0B\2\3\0029\3\16\0\18\5\2\0B\3\2\2\15\0\3\0X\4\3€\21\3\1\0\22\3\0\3<\2\3\0016\3\0\0'\5\17\0B\3\2\0029\3\18\3B\3\1\0016\3\0\0'\5\19\0B\3\2\0029\3\18\0035\5\20\0=\1\21\5B\3\2\0016\3\0\0'\5\22\0B\3\2\0029\3\18\3B\3\1\1K\0\1\0\"luasnip.loaders.from_snipmate\npaths\1\0\0 luasnip.loaders.from_vscode\14lazy_load\29luasnip.loaders.from_lua\17is_directory\rsnippets\19get_config_dir\22friendly-snippets\nstart\vpacker\tpack\tsite\20get_runtime_dir\15join_paths\22friendly_snippets\fsources\fluasnip\fbuiltin\tlvim\15lvim.utils\frequire\2\0", "config", "LuaSnip")
+time([[Config for LuaSnip]], false)
+-- Config for: nvim-tree.lua
+time([[Config for nvim-tree.lua]], true)
+try_loadstring("\27LJ\2\n@\0\0\3\0\3\0\0066\0\0\0'\2\1\0B\0\2\0029\0\2\0B\0\1\1K\0\1\0\nsetup\23lvim.core.nvimtree\frequire\0", "config", "nvim-tree.lua")
+time([[Config for nvim-tree.lua]], false)
+-- Config for: nvim-treesitter
+time([[Config for nvim-treesitter]], true)
+try_loadstring("\27LJ\2\nB\0\0\3\0\3\0\0066\0\0\0'\2\1\0B\0\2\0029\0\2\0B\0\1\1K\0\1\0\nsetup\25lvim.core.treesitter\frequire\0", "config", "nvim-treesitter")
+time([[Config for nvim-treesitter]], false)
+-- Config for: telescope.nvim
+time([[Config for telescope.nvim]], true)
+try_loadstring("\27LJ\2\nA\0\0\3\0\3\0\0066\0\0\0'\2\1\0B\0\2\0029\0\2\0B\0\1\1K\0\1\0\nsetup\24lvim.core.telescope\frequire\0", "config", "telescope.nvim")
+time([[Config for telescope.nvim]], false)
+-- Config for: alpha-nvim
+time([[Config for alpha-nvim]], true)
+try_loadstring("\27LJ\2\n=\0\0\3\0\3\0\0066\0\0\0'\2\1\0B\0\2\0029\0\2\0B\0\1\1K\0\1\0\nsetup\20lvim.core.alpha\frequire\0", "config", "alpha-nvim")
+time([[Config for alpha-nvim]], false)
+-- Config for: project.nvim
+time([[Config for project.nvim]], true)
+try_loadstring("\27LJ\2\n?\0\0\3\0\3\0\0066\0\0\0'\2\1\0B\0\2\0029\0\2\0B\0\1\1K\0\1\0\nsetup\22lvim.core.project\frequire\0", "config", "project.nvim")
+time([[Config for project.nvim]], false)
+-- Config for: nvim-notify
+time([[Config for nvim-notify]], true)
+try_loadstring("\27LJ\2\n>\0\0\3\0\3\0\0066\0\0\0'\2\1\0B\0\2\0029\0\2\0B\0\1\1K\0\1\0\nsetup\21lvim.core.notify\frequire\0", "config", "nvim-notify")
+time([[Config for nvim-notify]], false)
+-- Config for: nvim-cokeline
+time([[Config for nvim-cokeline]], true)
+try_loadstring("\27LJ\2\n^\0\1\5\1\4\0\0149\1\0\0\15\0\1\0X\2\6€-\1\0\0'\3\1\0'\4\2\0B\1\3\2\14\0\1\0X\2\4€-\1\0\0'\3\3\0'\4\2\0B\1\3\2L\1\2\0\0À\fComment\afg\vNormal\15is_focused \0\1\2\0\2\0\0039\1\0\0009\1\1\1L\1\2\0\ticon\fdevicon!\0\1\2\0\2\0\0039\1\0\0009\1\1\1L\1\2\0\ncolor\fdevicon#\0\1\3\0\2\0\0049\1\0\0'\2\1\0&\1\2\1L\1\2\0\a  \rfilename3\0\1\2\0\2\0\a9\1\0\0\15\0\1\0X\2\2€'\1\1\0X\2\1€+\1\0\0L\1\2\0\tbold\15is_focusedŒ\4\1\0\n\0\27\0F6\0\0\0'\2\1\0B\0\2\0029\0\2\0006\1\0\0'\3\3\0B\1\2\0029\1\4\0015\3\5\0005\4\a\0003\5\6\0=\5\b\4\18\5\0\0'\a\t\0'\b\n\0B\5\3\2=\5\n\4=\4\v\0034\4\b\0005\5\f\0\18\6\0\0'\b\r\0'\t\n\0B\6\3\2=\6\n\5>\5\1\0045\5\14\0\18\6\0\0'\b\t\0'\t\n\0B\6\3\2=\6\b\5\18\6\0\0'\b\r\0'\t\n\0B\6\3\2=\6\n\5>\5\2\0045\5\16\0003\6\15\0=\6\17\0053\6\18\0=\6\b\5>\5\3\0045\5\19\0>\5\4\0045\5\21\0003\6\20\0=\6\17\0053\6\22\0=\6\23\5>\5\5\0045\5\24\0>\5\6\0045\5\25\0\18\6\0\0'\b\t\0'\t\n\0B\6\3\2=\6\b\5\18\6\0\0'\b\r\0'\t\n\0B\6\3\2=\6\n\5>\5\a\4=\4\26\3B\1\2\0012\0\0€K\0\1\0\15components\1\0\1\ttext\bî‚´\1\0\2 delete_buffer_on_left_click\2\ttext\bï™•\nstyle\0\1\0\0\0\1\0\1\ttext\6 \0\ttext\1\0\0\0\1\0\1\ttext\bî‚¶\vNormal\1\0\1\ttext\6 \15default_hl\abg\16ColorColumn\afg\1\0\0\0\1\0\1!show_if_buffers_are_at_least\3\2\nsetup\rcokeline\fget_hex\19cokeline/utils\frequire\0", "config", "nvim-cokeline")
+time([[Config for nvim-cokeline]], false)
 vim.cmd [[augroup packer_load_aucmds]]
 vim.cmd [[au!]]
   -- Event lazy-loads

@@ -1,5 +1,5 @@
 configuration {
-	font:							"Google Sans Text 9";
+	font:							"Recursive Sans Casual Static 9";
     show-icons:                     true;
 	icon-theme: 					"Papirus-Dark";
     display-drun: 					"";
@@ -46,7 +46,7 @@ entry {
     placeholder:                    "Search";
     padding:                        0.5% 0 0 0;
     blink:                          true;
-    font:                           "Google Sans Text 12";
+    font:                           "Recursive Sans Casual Static 12";
 }
 
 inputbar {

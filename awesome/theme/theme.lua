@@ -42,7 +42,7 @@ theme.transparent = "#00000000"
 -- ░▀░░░▀▀▀░▀░▀░░▀░░▀▀▀
 
 -- Ui Fonts
-theme.font_name = "Google Sans Text "
+theme.font_name = "Recursive Sans Casual Static "
 theme.font = theme.font_name .. "Medium 10"
 -- Icon Fonts
 theme.icon_font = "Material Icons "
